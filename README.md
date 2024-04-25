@@ -1,7 +1,6 @@
 # 5320-Group25-VikramKotlo
 
 # Scientific Data Visualization Project
-- Professor: Tariq Zeenat
 
 ## Overview
 
@@ -34,6 +33,9 @@ This project aims to explore and visualize various aspects of global health and 
 3. Explore the datasets in the `data/` directory.
 4. Run the Python scripts or notebooks in the `code/` directory for data analysis and visualization.
 5. Refer to the reports in the `reports/` directory for detailed analysis findings and insights.
+
+## Project Co-Ordinator
+Zeenat Tariq(prof)
 
 ## Project Team
 
