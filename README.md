@@ -1,6 +1,7 @@
 # 5320-Group25-VikramKotlo
 
 # Scientific Data Visualization Project
+- Professor: Tariq Zeenat
 
 ## Overview
 
