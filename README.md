@@ -36,8 +36,7 @@ This project aims to explore and visualize various aspects of global health and 
 
 ## Project Team
 
-- Project Lead: [Your Name]
-- Contributors: [List of contributors]
+- Project Lead: Vikram Kotlo
 
 ## License
 
